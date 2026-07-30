@@ -1,0 +1,61 @@
+text,label
+"Thanks so much for helping me move last weekend, I really appreciate it.",safe
+"Can we reschedule our meeting to Thursday afternoon?",safe
+"I just finished reading a great book about machine learning, highly recommend it.",safe
+"The weather has been lovely this week, perfect for a walk in the park.",safe
+"Great job on the presentation today, the team was really impressed.",safe
+"Could you send me the updated invoice when you get a chance?",safe
+"Happy birthday! Hope you have an amazing day.",safe
+"The new restaurant downtown has really good pasta, we should go sometime.",safe
+"I'm a bit nervous about the exam tomorrow but I've studied hard.",safe
+"Let's grab coffee sometime next week and catch up.",safe
+"The pull request looks good, just a couple of small comments to address.",safe
+"Congratulations on your promotion, you totally deserve it!",safe
+"Our flight got delayed by two hours but we made it home safe.",safe
+"I planted some tomatoes in the garden this weekend.",safe
+"The documentation for this library is really well written.",safe
+"Looking forward to the team offsite next month.",safe
+"Could you review my code changes before I merge them?",safe
+"The kids had a great time at the science museum today.",safe
+"I switched to a standing desk and my back feels much better.",safe
+"Thanks for the quick response, that solved my issue perfectly.",safe
+"You are so stupid, I can't believe how dumb you are.",toxic
+"Shut up, nobody wants to hear your worthless opinion.",toxic
+"You're pathetic and everyone secretly hates you.",toxic
+"Get lost, you idiot, you ruin everything you touch.",toxic
+"I hope you fail, you don't deserve any of this.",toxic
+"You're a complete loser and always will be.",toxic
+"Nobody likes you, just disappear already.",toxic
+"You're an embarrassment to everyone around you.",toxic
+"Stop talking, your ideas are garbage and always have been.",toxic
+"You're too dumb to understand basic things, it's honestly sad.",toxic
+"I'll make your life miserable if you don't do what I say.",toxic
+"Everyone thinks you're a joke behind your back.",toxic
+"You add zero value, just quit already.",toxic
+"You're worthless and a waste of everyone's time.",toxic
+"Keep talking and see what happens to you, idiot.",toxic
+"You disgust me, get out of my sight.",toxic
+"You're too incompetent to be trusted with anything.",toxic
+"I can't stand you, you ruin every single conversation.",toxic
+"You're a pathetic excuse for a teammate.",toxic
+"Shut your mouth, no one asked for your input.",toxic
+"CONGRATULATIONS!!! You've WON a $1000 gift card, click here now: bit.ly/claim-prize",spam
+"Make $5000 a week working from home, no experience needed! Click now!",spam
+"URGENT: Your account will be suspended, verify your password immediately at this link.",spam
+"Buy now and get 90% off, limited time offer, click the link before it's gone!!!",spam
+"You have been selected for a FREE iPhone, claim your prize at freeprize-now.com",spam
+"Hot singles in your area want to meet you, click here to chat now!",spam
+"Double your bitcoin in 24 hours, guaranteed returns, invest now!",spam
+"Click here to unlock exclusive discounts, offer expires in 10 minutes!!!",spam
+"Your package could not be delivered, click this link to reschedule and pay a small fee.",spam
+"Earn passive income fast with this one weird trick, banks hate it!",spam
+"WINNER WINNER, claim your free vacation package now before it expires!",spam
+"Increase your followers by 10000 overnight, just click this link!",spam
+"Act now! Only 3 spots left for this amazing investment opportunity!",spam
+"Your subscription has expired, renew now to avoid losing access, click here.",spam
+"FREE MONEY, no catch, just click and enter your bank details to claim.",spam
+"Limited time crypto giveaway, send 0.1 BTC and receive 1 BTC back instantly!",spam
+"You've been pre-approved for a $50,000 loan, apply now with no credit check!",spam
+"Lose 20 pounds in a week with this one simple trick doctors don't want you to know!",spam
+"Your computer has a virus, call this number immediately to fix it now!",spam
+"Get rich quick with this exclusive investment secret, click before it's too late!",spam
